@@ -9,7 +9,7 @@ Explore the project and live demo here:
 
 ---
 
-## ⚡ Features
+## Features
 
 ### Authentication
 - Signup, login, email verification, password reset via Supabase.
@@ -111,6 +111,3 @@ We welcome contributions! To get started:
 
 For detailed API client usage, integration guidelines, and technical documentation, see the `docs` folder and in-code comments.
 
----
-
-Thank you for your interest and support in building the future of autonomous cyber defense with SentinelMesh!
