@@ -99,7 +99,7 @@ The project evolves through planned phases, including frontend prototyping, back
 
 ## Contributing
 
-We welcome contributions! To get started:  
+To get started:  
 - Fork the repository  
 - Create a feature branch  
 - Commit your changes with clear messages  
